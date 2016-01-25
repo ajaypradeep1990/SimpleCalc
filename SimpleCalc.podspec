@@ -9,17 +9,16 @@
 Pod::Spec.new do |s|
   s.name             = "SimpleCalc"
   s.version          = "0.1.0"
-  s.summary          = "A short description of SimpleCalc."
+  s.summary          = "A basic Calculator"
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
 #   * Try to keep it short, snappy and to the point.
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!  
-  s.description      = <<-DESC
-                       DESC
+  s.description      = "This CocoaPod provides the basic numerical operations to add, subtract, divide and Multiply two numbers."
 
-  s.homepage         = "https://github.com/<GITHUB_USERNAME>/SimpleCalc"
+  s.homepage         = "https://github.com/ajaypradeep1990/SimpleCalc"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "Ajay" => "ajaypradeep1990@gmail.com" }

@@ -1,0 +1,14 @@
+PODS:
+  - SimpleCalc (0.1.0)
+
+DEPENDENCIES:
+  - SimpleCalc (from `../`)
+
+EXTERNAL SOURCES:
+  SimpleCalc:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SimpleCalc: f83e4d071f7686b4e5e0b10495a4ba04752715fe
+
+COCOAPODS: 0.39.0
